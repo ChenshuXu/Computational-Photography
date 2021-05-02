@@ -43,27 +43,27 @@ Ran 5 tests in 0.272s
 OK
 ```
 
-## Manually convolve
+## [Manually convolve](manually%20convolve)
 
 In this introductory assignment, I did some Python programming **using an
  image that you took with your camera or smartphone**. I used NumPy and
 OpenCV libraries to work with the image array and write my own convolution
    function.
 
-## Pyramid Blending
+## [Pyramid Blending](pyramid%20blending)
 
 In this assignment, I put together a pyramid blending pipeline that will combine separate images into a seamlessly blended image.
 
-## Panoramas
+## [Panoramas](panoramas)
 
 In this assignment, I implemented a pipeline to align and stitch together a series of images into a panorama. I used my code on my own pictures to make a panorama.
 
-## High Dynamic Range
+## [High Dynamic Range](high%20dynamic%20range)
 
 This assignment focuses on the core algorithms behind computing HDR images based on the paper ["Recovering High
  Dynamic Range Radiance Maps from Photographs” by Debevec & Malik](https://www.pauldebevec.com/Research/HDR/). I implemented the HDR algorithms from the paper and used [contrast limited adaptive histogram equalization (CLAHE)](https://en.wikipedia.org/wiki/Adaptive_histogram_equalization) to improve the basic HDR image
 
-## Seam carving
+## [Seam carving](seam%20carving)
 
 The goal of this project is to replicate the results of published 
 Computational Photography papers by following the methods described in the 
@@ -76,7 +76,7 @@ papers:
 
 Specifically, I implemented seam removal and insertion with both backward and forward energy methods.
 
-## Video stablization
+## [Video stablization](video%20stabilization)
 
 For this project I replicated results of the video stabilization method in paper:
 

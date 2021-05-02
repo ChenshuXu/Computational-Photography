@@ -18,7 +18,7 @@ Then put all input videos you want to process into this `source` folder and run 
 
 ## Results
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLFip_pImbmCXXI86XuvYQd_6DrJ_W3xkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtube.com/playlist?list=PLFip_pImbmCXXI86XuvYQd_6DrJ_W3xkc
 
 ### Result of skater video
 
